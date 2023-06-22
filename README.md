@@ -15,7 +15,6 @@
 
 </div>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=saravananselvamohan&show_icons=true)
 
 **Languages and Tools:** 
 <p align="left">
